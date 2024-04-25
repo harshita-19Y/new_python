@@ -1,3 +1,5 @@
 print("Hii")
 print("Helo")
 print("thrusday")
+print("good noon")
+print("new new")
